@@ -31,7 +31,7 @@
                 <div class="collapse navbar-collapse" id="navbarNavDropdown">
                     <ul class="navbar-nav ms-auto">
                         <li class="nav-item">
-                            <a class="nav-link " aria-current="page" href=""><span>Home</span></a>
+                            <a class="nav-link active" aria-current="page" href=""><span>Home</span></a>
                         </li>
 
                         <!-- <li class="nav-item dropdown">
@@ -45,13 +45,13 @@
                             </ul>
                         </li> -->
                         <li class="nav-item">
-                            <a class="nav-link" href="about.html"><span>Admission</span></a>
+                            <a class="nav-link" href="#"><span>Admission</span></a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="about.html"><span>Contact Us</span></a>
+                            <a class="nav-link" href="#"><span>Contact Us</span></a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="contact.html"><span>Login</span></a>
+                            <a class="nav-link" href="login.php"><span>Login</span></a>
                         </li>
                     </ul>
                 </div>

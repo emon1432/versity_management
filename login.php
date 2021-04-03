@@ -1,11 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Login/Registration</title>
     <link rel="stylesheet" href="css/login_style.css">
 </head>
+
 <body>
     <div class="background">
         <div class="form-box">
@@ -41,16 +43,18 @@
         var y = document.getElementById("register");
         var z = document.getElementById("btn");
 
-        function register(){
+        function register() {
             x.style.left = "-400px";
             y.style.left = "50px";
             z.style.left = "110px";
         }
-        function login(){
+
+        function login() {
             x.style.left = "50px";
             y.style.left = "450px";
             z.style.left = "0";
         }
-    </script> 
+    </script>
 </body>
+
 </html>

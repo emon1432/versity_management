@@ -16,7 +16,7 @@
     <div id="container">
         <nav class="navbar navbar-expand-lg my_navbar navbar-light">
             <div class="container-fluid">
-                <a class="navbar-brand" href="index.html">
+                <a class="navbar-brand" href="index.php">
                     <div class="logo">
                         <img src="img/IST_logo.png" alt="">
                     </div>
@@ -45,10 +45,10 @@
                             </ul>
                         </li> -->
                         <li class="nav-item">
-                            <a class="nav-link" href="#"><span>Admission</span></a>
+                            <a class="nav-link" href="admission.php"><span>Admission</span></a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#"><span>Contact Us</span></a>
+                            <a class="nav-link" href="contact.php"><span>Contact Us</span></a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="login.php"><span>Login</span></a>
